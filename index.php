@@ -1,5 +1,5 @@
 <?php
-    require_once 'const/constants.php';
+    require_once 'constants/constants.php';
 ?>
 
 <!DOCTYPE html>
